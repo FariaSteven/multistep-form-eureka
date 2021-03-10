@@ -1,6 +1,6 @@
 # Multistep Form
 
-![](https://github.com/FariaSteven/multistep-form-eureka/blob/main/Desktop%20-%201.jpg)
+![](https://github.com/FariaSteven/multistep-form-eureka/blob/main/Desktop.jpg)
 
 ### `npm install`
 

@@ -12,4 +12,4 @@ runs the fakeapi on [http://localhost:3000/userData](http://localhost:3000/userD
 
 ### `npm start`
 
-runs the application on development mode on [http://localhost:3000](http://localhost:3000)
+runs the application on [http://localhost:3000](http://localhost:3000)

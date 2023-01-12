@@ -1,6 +1,4 @@
-# Multistep Form
-
-# 📝 Beautiful Form
+# 📝 Multistep Form
 
 > Project developed for Eureka company selection process, a multi-step form using Reactjs.
 

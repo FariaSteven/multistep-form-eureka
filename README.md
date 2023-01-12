@@ -1,15 +1,28 @@
 # Multistep Form
 
-![](https://github.com/FariaSteven/multistep-form-eureka/blob/main/Desktop.jpg)
+# 📝 Beautiful Form
 
-### `npm install`
+> Project developed for Eureka company selection process, a multi-step form using Reactjs.
 
-Install all the dependencies for the project
+## 💻 Prerequisites
 
-### `json-server --watch db.json`
+Before start, check if you have the requirements to run this project:
 
-runs the fakeapi on [http://localhost:3000/userData](http://localhost:3000/userData)
+- `NodeJS` installed.
 
-### `npm start`
+## 🚀 Installing the project
 
-runs the application on [http://localhost:3000](http://localhost:3000)
+To install this project, follow the steps below:
+
+In your terminal, inside the project folder, run the command below to install the dependencies:
+```
+npm
+```
+
+## ☕ Running the project
+
+In your terminal, inside the project folder, run the command below to run the project:
+
+```
+npm start
+```
